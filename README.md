@@ -28,6 +28,7 @@ I'm a Computer Engineering student at Universidad UNIE in Madrid. I work with Py
 | [Twitter Sentiment Classifier](https://github.com/said-velasquez/twitter-sentiment-classifier) | 4-class sentiment model on ~74,000 tweets plus an auto-reply prototype | NLTK, scikit-learn |
 | [Web Scraping Pipelines](https://github.com/said-velasquez/web-scraping-pipelines) | Selenium bot for the Steam store and sentiment of 181 Spanish news headlines | Selenium, BeautifulSoup, Transformers |
 | [Statistical Analysis Projects](https://github.com/said-velasquez/statistical-analysis-projects) | Mann-Whitney U test on 584 World Cup matches and crime patterns in 185,000 LAPD records | pandas, pingouin |
+| [SMS Spam Detection](https://github.com/said-velasquez/sms-spam-detection) | Spam filter with 98% accuracy on 5,572 SMS messages, Naive Bayes vs Logistic Regression | scikit-learn, pandas |
 
 ## 🛠️ Tech stack
 
