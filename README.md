@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Said Velásquez 👋
+# Hi, I'm Said Velásquez
 
 **Computer Engineering student · Data Analytics · Data Science · Data Engineering**
 
@@ -12,7 +12,7 @@ I'm a Computer Engineering student based in Madrid. I work with Python and SQL t
 
 </div>
 
-## 🔎 What I do
+## What I do
 
 - **Data analysis:** EDA, data cleaning, hypothesis testing (t-test, chi-square, Mann-Whitney U) and sampling.
 - **Machine learning:** regression and classification with Logistic Regression, Naive Bayes, Random Forest, KNN, Decision Trees and SVM.
@@ -20,7 +20,7 @@ I'm a Computer Engineering student based in Madrid. I work with Python and SQL t
 - **Data collection:** web scraping with Selenium, Requests and BeautifulSoup.
 - **Databases:** relational modeling (ER, normalization) and SQL with MySQL.
 
-## 📂 Featured projects
+## Featured projects
 
 | Project | What it shows | Stack |
 |---|---|---|
@@ -30,7 +30,7 @@ I'm a Computer Engineering student based in Madrid. I work with Python and SQL t
 | [Statistical Analysis Projects](https://github.com/said-velasquez/statistical-analysis-projects) | Mann-Whitney U test on 584 World Cup matches and crime patterns in 185,000 LAPD records | pandas, pingouin |
 | [SMS Spam Detection](https://github.com/said-velasquez/sms-spam-detection) | Spam filter with 98% accuracy on 5,572 SMS messages, Naive Bayes vs Logistic Regression | scikit-learn, pandas |
 
-## 🛠️ Tech stack
+## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -48,10 +48,10 @@ I'm a Computer Engineering student based in Madrid. I work with Python and SQL t
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## 🤖 Beyond the notebooks
+## Beyond the notebooks
 
 Founding member of my university's Robotics Club, which grew from 5 to 20 members. We design robot parts in Blender, 3D-print them and program them in Python.
 
-## 🌍 Languages
+## Languages
 
 Spanish (native) · English (B2)
