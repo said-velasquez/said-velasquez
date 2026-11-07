@@ -4,7 +4,7 @@
 
 **Computer Engineering student · Data Analytics · Data Science · Data Engineering**
 
-I'm a Computer Engineering student at Universidad UNIE in Madrid. I work with Python and SQL to clean, analyze and model data, from hypothesis tests and regression to NLP classifiers and web scraping pipelines.
+I'm a Computer Engineering student based in Madrid. I work with Python and SQL to clean, analyze and model data, from hypothesis tests and regression to NLP classifiers and web scraping pipelines.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Said%20Vel%C3%A1squez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/said-vel%C3%A1squez-650905333)
 ![Location](https://img.shields.io/badge/Madrid,%20Spain-555555?logo=googlemaps&logoColor=white)
@@ -50,7 +50,7 @@ I'm a Computer Engineering student at Universidad UNIE in Madrid. I work with Py
 
 ## 🤖 Beyond the notebooks
 
-Founding member of the Robotics Club at Universidad UNIE, which grew from 5 to 20 members. We design robot parts in Blender, 3D-print them and program them in Python.
+Founding member of my university's Robotics Club, which grew from 5 to 20 members. We design robot parts in Blender, 3D-print them and program them in Python.
 
 ## 🌍 Languages
 
